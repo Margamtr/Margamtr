@@ -5,9 +5,9 @@ I'm **Margarita Torres**, a passionate **Junior Data Analyst** eager to dive int
 
 
 ## 🛠 Skills and Tools
-- **Programming**: Python 🐍, SQL 🗄️
+- **Programming**: Python 🐍, SQL 🗄️, Pyspark
 - **Data Visualization**: Tableau 📊, Power BI 📈
-- **Data Manipulation**: Pandas 🐼, NumPy 🔢
+- **Data Manipulation**: Pandas 🐼, NumPy 🔢, Apache Spark
 - **Operating Systems**: Linux 🐧, Windows 🖥️
 
 ## 🌱 Continuous Learning
